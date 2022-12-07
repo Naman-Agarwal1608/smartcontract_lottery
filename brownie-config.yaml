@@ -1,0 +1,7 @@
+dependencies:
+  - smartcontarctkit/chainlink-brownie-contarcts@1.1.1
+
+compiler:
+  solc:
+    remappings:
+      - '@chainlink=smartcontarctkit/chainlink-brownie-contarcts@1.1.1'
